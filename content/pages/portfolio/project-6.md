@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/belvaros-3d-render-kozeli.png
     image_alt: Subtle 1
-    caption: Miskolc belváros
+    caption: A Miskolc belváros
     width: wide
   - type: text_section
     content: >-
