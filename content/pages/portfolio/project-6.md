@@ -6,7 +6,7 @@ thumb_image: images/royal-maple.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/egyszeru-papir-lebeg-1-1.png
+    image: images/belvaros-3d-render-kozeli.png
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
