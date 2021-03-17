@@ -13,7 +13,9 @@ sections:
   - type: text_section
     content: "A poszter egy félig képzeletbeli városképet mutat be a Széchenyi utca\_és az Erzsébet tér néhány jellegzetes épületével. Bónusz miskolciságként helyet kapott egy kis szelet az Avasi pincesorból, egy régi bécsi villamos, illetve a Szinva patak is az Erzsébet híddal.\n\n\n**A poszter 3 méretben elérhető:**\n\n*   A3 (29,7 x 42 cm)\n\n*   A2 (42 x 59,4 cm)\n\n*   50 x 70 cm\n"
   - image_alt: lorem-ipsum
-    caption: Így nézne ki egy nappaliban
+    caption: >-
+      Így nézne ki egy nappaliban a Miskolc belváros illusztráció bekeretezett
+      faliképként
     width: regular
     type: image_section
     image: images/miskolc-kep-ajandek-illusztracio-varoskep.png
