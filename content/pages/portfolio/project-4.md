@@ -6,7 +6,7 @@ thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másol
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
-    image: images/work-book-1.jpg
+    image: images/energetic-mars.png
     image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
