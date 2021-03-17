@@ -13,7 +13,9 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Megrendelhető Miskolc városkép poszterek
-    subtitle: Explore case studies
+    subtitle: >-
+      Egyedileg illusztrált faliképek. Ideális ajándék az építészetet és/vagy
+      Miskolcot kedvelőknek.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
