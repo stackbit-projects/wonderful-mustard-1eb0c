@@ -6,7 +6,7 @@ thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: images/weidlich-3d-render-kozeli.png
     image_alt: Nature Magazine 1
     caption: '3D render a Weidlich-palota illusztrációról. Használt szoftver: Blender'
     width: wide
