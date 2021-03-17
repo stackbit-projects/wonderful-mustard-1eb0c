@@ -28,10 +28,6 @@ sections:
 
       *   50 x 70 cm
   - type: image_section
-    image: images/work-book-2.jpg
-    image_alt: Nature Mockup Magazine 2
-    width: wide
-  - type: image_section
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3
     width: wide
