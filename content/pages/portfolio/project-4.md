@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/energetic-mars.png
     image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
-    caption: This is the caption of the image
+    caption: Az Erzsébet-fürdő illusztráció 3D renderen.
     width: wide
   - type: text_section
     content: >-
