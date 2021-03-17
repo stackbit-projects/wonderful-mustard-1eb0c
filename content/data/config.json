@@ -6,7 +6,7 @@
     "base_font": "karla",
     "header": {
         "title": "Agency",
-        "logo": "images/pennarello-logo-1.svg",
+        "logo": "images/logo-1.svg",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
