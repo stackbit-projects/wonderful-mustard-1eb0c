@@ -5,10 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: Grafikai tervezés
-    content: >-
-      We are a design practice. We work closely with you, your team to deliver
-      inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Minden cég megérdemel egy igényes megjelenést, amivel bizalmat ébreszthet
+      a leendő vevőiben, legyen szó egy közösségi média posztról, logóról, vagy
+      akár egy molinóról. 
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
