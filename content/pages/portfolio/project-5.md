@@ -28,7 +28,7 @@ sections:
 
       *   50 x 70 cm
   - type: image_section
-    image: images/work-magazine-2.jpg
+    image: images/miskolc-weidlich-palota-kep-reszlet.png
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
