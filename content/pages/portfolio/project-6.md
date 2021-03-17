@@ -2,7 +2,7 @@
 title: Miskolc belváros – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomatás'
 date: '2021-02-06'
-thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli.png
+thumb_image: images/pleasant-rosemary.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
