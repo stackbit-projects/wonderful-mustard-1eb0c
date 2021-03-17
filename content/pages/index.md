@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Egyedi Miskolc városkép poszterek
+    title: Grafikai tervezés
     content: >-
       We are a design practice. We work closely with you, your team to deliver
       inspiring work, which enables your organization to grow. [Let's
