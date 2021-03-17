@@ -6,7 +6,7 @@ thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másol
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
-    image: images/energetic-mars.png
+    image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli.png
     image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
     caption: Az Erzsébet-fürdő illusztráció 3D renderen.
     width: wide
