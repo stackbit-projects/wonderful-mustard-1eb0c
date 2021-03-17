@@ -11,7 +11,7 @@ sections:
       akár egy molinóról. 
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: /contact/
         style: button
         icon: dribbble
         new_window: false
