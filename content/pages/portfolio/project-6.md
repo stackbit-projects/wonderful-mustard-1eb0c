@@ -1,5 +1,5 @@
 ---
-title: 'Miskolc belváros – egyedi '
+title: Miskolc belváros – egyedi falikép
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: images/egyszeru-papir-lebeg-1-1.png
