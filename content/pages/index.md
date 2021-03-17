@@ -86,7 +86,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 6
     view_all_label: lorem-ipsum
     view_all_url: '#'
