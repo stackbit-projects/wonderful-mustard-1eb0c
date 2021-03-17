@@ -11,15 +11,22 @@ sections:
     caption: Az Erzsébet-fürdő illusztráció 3D renderen.
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Az Erzsébet-fürdő kék kupolájával meghatározó épülete az Erzsébet térnek.
+      A tér mellet csörgedező Szinva felett átívelő gyalogos hidacska szintén az
+      Erzsébet nevet viseli.
+
+
+      **Az Erzsébet-fürdő illusztráció 3 méretben érhető el:**
+
+
+      *   A3 (29,7 x 42 cm)
+
+
+      *   A2 (42 x 59,4 cm)
+
+
+      *   50 x 70 cm 
   - type: image_section
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
