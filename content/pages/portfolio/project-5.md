@@ -13,7 +13,7 @@ sections:
   - type: text_section
     content: >
       A Weidlich-palota Miskolc belvárosának egyik legikonikusabb épülete. Nem
-      sokan tudják, de régen a jelenleginél is magasabbra nyúlt az épület;
+      sokan tudják, de régen még a jelenleginél is magasabbra nyúlt az épület;
       tetejét két hagymakupola díszítette.
   - type: image_section
     image: images/work-magazine-2.jpg
