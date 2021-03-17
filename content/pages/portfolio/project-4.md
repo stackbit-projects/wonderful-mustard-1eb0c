@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Erzsébet-fürdő – egyedi falikép
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
