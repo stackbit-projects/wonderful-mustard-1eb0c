@@ -83,13 +83,5 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: portfolio_section
 layout: advanced
 ---
