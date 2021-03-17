@@ -9,6 +9,14 @@ sections:
       Minden cég megérdemel egy igényes megjelenést, amivel bizalmat ébreszthet
       a leendő vevőiben, legyen szó egy közösségi média posztról, logóról, vagy
       akár egy molinóról. 
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
