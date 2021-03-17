@@ -2,7 +2,7 @@
 title: Erzsébet-fürdő – egyedi falikép
 subtitle: Editorial Design
 date: '2020-05-10'
-thumb_image: images/work-book-1-thumb.jpg
+thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másolat.png
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
