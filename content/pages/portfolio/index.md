@@ -28,5 +28,5 @@ seo:
       value: images/work-book-1.jpg
       relativeUrl: true
 layout: portfolio
-title: Miskolc poszterej
+title: Miskolc poszterek
 ---
