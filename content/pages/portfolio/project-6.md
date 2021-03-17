@@ -1,6 +1,6 @@
 ---
 title: Miskolc belváros – egyedi falikép
-subtitle: Brand Development
+subtitle: 'Grafikai tervezés, nyomatás'
 date: '2021-02-06'
 thumb_image: images/egyszeru-papir-lebeg-1-1.png
 thumb_image_alt: Subtle preview
