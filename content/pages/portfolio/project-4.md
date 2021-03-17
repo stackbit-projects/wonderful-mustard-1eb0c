@@ -27,10 +27,6 @@ sections:
 
 
       *   50 x 70 cm
-  - type: image_section
-    image: images/work-book-3.jpg
-    image_alt: Nature Mockup Magazine 3
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
