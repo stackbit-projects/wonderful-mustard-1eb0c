@@ -31,7 +31,9 @@ sections:
     image: images/miskolc-weidlich-palota-kep-reszlet.png
     image_alt: Nature Magazine 2
     width: wide
-    caption: 'Részlet a Weidlich-palota illusztrációból. '
+    caption: >-
+      Részlet a Weidlich-palota illusztrációból. Grafikai tervezőszoftver:
+      Affinity Designer
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
