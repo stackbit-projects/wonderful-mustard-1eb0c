@@ -4,12 +4,10 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+    title: Egyedi Miskolc városkép poszterek
     content: >-
-      We are a design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+      We are a design practice. We work closely with you, your team to deliver
+      inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
