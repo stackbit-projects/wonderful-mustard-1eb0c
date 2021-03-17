@@ -8,7 +8,7 @@ sections:
       This is an Award Winning Agency Based in San Francisco and Focusing on
       Digital, Identity, and Print Design.
     content: >-
-      We are a ű and design practice. We work closely with you, your team to
+      We are a űu and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
   - type: portfolio_section
