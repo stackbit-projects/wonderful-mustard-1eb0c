@@ -26,7 +26,7 @@ sections:
       *   A2 (42 x 59,4 cm)
 
 
-      *   50 x 70 cm 
+      *   50 x 70 cm
   - type: image_section
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
