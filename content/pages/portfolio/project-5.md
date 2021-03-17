@@ -11,15 +11,10 @@ sections:
     caption: '3D render a Weidlich-palota illusztrációról. Használt szoftver: Blender'
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      A Weidlich-palota Miskolc belvárosának egyik legikonikusabb épülete. Nem
+      sokan tudják, de régen a jelenleginél is magasabbra nyúlt az épület;
+      tetejét két hagymakupola díszítette.
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
