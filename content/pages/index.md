@@ -10,7 +10,7 @@ sections:
       a leendő vevőiben, legyen szó egy közösségi média posztról, logóról, vagy
       akár egy molinóról. 
     actions:
-      - label: lorem-ipsum
+      - label: Kapcsolat
         url: /contact/
         style: button
         icon: dribbble
