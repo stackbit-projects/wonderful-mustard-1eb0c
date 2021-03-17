@@ -16,6 +16,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/miskolc-kep-ajandek-illusztracio-varoskep.png
 seo:
   title: Subtle
   description: This is the sample project description
