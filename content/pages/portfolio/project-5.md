@@ -14,8 +14,10 @@ sections:
     content: >
       A Weidlich-palota Miskolc belvárosának egyik legikonikusabb épülete. Nem
       sokan tudják, de régen még a jelenleginél is magasabbra nyúlt az épület;
-      tetejét két hagymakupola díszítette. A faliképet 3 méretben lehet
-      rendelni:
+      tetejét két hagymakupola díszítette. 
+
+
+      **A faliképet 3 méretben lehet rendelni:**
 
 
       *   A3 (29,7 x 42 cm)
@@ -24,7 +26,7 @@ sections:
       *   A2 (42 x 59,4 cm
 
 
-      *   50 x 70 cm 
+      *   50 x 70 cm
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
