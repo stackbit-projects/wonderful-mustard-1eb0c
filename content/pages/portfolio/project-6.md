@@ -15,7 +15,7 @@ sections:
   - image_alt: lorem-ipsum
     caption: >-
       Így nézne ki egy nappaliban a Miskolc belváros illusztráció bekeretezett
-      képként
+      képként.
     width: regular
     type: image_section
     image: images/miskolc-kep-ajandek-illusztracio-varoskep.png
