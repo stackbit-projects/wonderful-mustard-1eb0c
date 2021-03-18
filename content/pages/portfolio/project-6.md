@@ -6,7 +6,7 @@ thumb_image: images/pleasant-rosemary.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/belvaros-3d-render-kozeli-k.png
+    image: images/belvaros-3d-render-kozeli másolat (1).png
     image_alt: Subtle 1
     caption: 'A Miskolc belváros illusztráció 3D renderen. Használt szoftver: Blender'
     width: wide
