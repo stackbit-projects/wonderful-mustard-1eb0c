@@ -5,8 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |+
-      Let’s build something great together.<br>
-      Complete our contact form or send us an email at <email@example.com>.
+      Készítsünk neked valami szépet. Töltsd ki a kapcsolati űrlapot az oldalon, vagy írj egy email az <email@example.com>.
 
       ***
 
