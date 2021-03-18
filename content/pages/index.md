@@ -78,7 +78,7 @@ sections:
       Írj egy emailt az <info@pennarello.hu> címre, vagy írj nekünk a kapcsolati
       űrlapon!
     actions:
-      - label: Let's start
+      - label: Kapcsolat
         url: /contact
         style: button
     image: images/cta.svg
