@@ -25,7 +25,7 @@ sections:
       Egyedileg illusztrált faliképek. Ideális ajándék az építészetet és/vagy
       Miskolcot kedvelőknek.
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Mind megtekintése
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
