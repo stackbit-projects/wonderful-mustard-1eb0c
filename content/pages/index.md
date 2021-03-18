@@ -46,7 +46,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Szolgáltatásaink
-    subtitle: What we do
+    subtitle: 'Minden, ami 2D grafikai tervezés és nem mozog (szóval nem videó).'
     col_number: three
     grid_items:
       - title: Grafikai tervezés
