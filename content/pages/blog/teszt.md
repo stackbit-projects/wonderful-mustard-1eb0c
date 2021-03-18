@@ -1,7 +1,7 @@
 ---
 title: Blogunk hamarosan indul
 subtitle: Nézz vissza később
-date: '2021-03-12'
+date: '2021-03-18'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
 excerpt: Hamarosan...
