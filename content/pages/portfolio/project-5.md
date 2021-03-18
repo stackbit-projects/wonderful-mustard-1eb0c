@@ -6,7 +6,7 @@ thumb_image: images/weidlich-3d-render-kozeli másolat.png
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: images/kind-oregano.png
+    image: images/weidlich-3d-render-kozeli másolat (1).png
     image_alt: Nature Magazine 1
     caption: '3D render a Weidlich-palota illusztrációról. Használt szoftver: Blender'
     width: wide
