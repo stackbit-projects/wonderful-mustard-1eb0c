@@ -1,6 +1,6 @@
 ---
 title: Blogunk hamarosan indul
-subtitle: lorem-ipsum
+subtitle: Nézz vissza később
 date: '2021-02-12'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
