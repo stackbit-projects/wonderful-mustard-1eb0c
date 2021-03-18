@@ -31,6 +31,7 @@ sections:
           köszönhetően a logó kis méretben is alkalmazható.
         actions: []
         type: grid_item
+        image: images/whatnow-logo-tervezes.png
     type: grid_section
 seo:
   title: ''
