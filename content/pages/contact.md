@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |+
-      Készítsünk neked valami szépet. Töltsd ki a kapcsolati űrlapot az oldalon, vagy írj egy email az <info@pennarello.hu>.
+      Készítsünk neked valami szépet. Töltsd ki a kapcsolati űrlapot az oldalon, vagy írj egy email az <info@pennarello.hu> címen.
 
       ***
 
