@@ -58,14 +58,9 @@ sections:
 
       - title: Nyomtatás
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Nagy formátumú nyomtatás
+          *   Molinó nyomtatás
       - title: 'Vászonképek, illusztrációk'
         image: images/service-3.svg
         content: |
