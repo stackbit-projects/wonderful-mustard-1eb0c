@@ -51,14 +51,11 @@ sections:
     grid_items:
       - title: Grafikai tervezés
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |+
+          *   Logó tervezés
+          *   Arculat tervezés
+          *   Táblák, poszterek, molinók grafikai tervezése
+
       - title: Brand design
         image: images/service-2.svg
         content: |-
