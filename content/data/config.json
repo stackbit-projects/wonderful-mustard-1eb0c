@@ -47,7 +47,7 @@
         "links": [
             {
                 "label": "Adatkezelési nyilatkozat",
-                "url": "#",
+                "url": "/adatk",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
