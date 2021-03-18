@@ -74,9 +74,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Készítsünk neked valami szépet!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Írj egy emailt az <info@pennarello.hu> címre, vagy írj nekünk a kapcsolati
+      űrlapon!
     actions:
       - label: Let's start
         url: /contact
