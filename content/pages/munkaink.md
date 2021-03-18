@@ -24,7 +24,9 @@ sections:
     grid_items:
       - title: Whatnow
         subtitle: Online oktatói felület logóterv
-        image_alt: logo
+        image_alt: >-
+          A Whatnow online oktatófelület logó tervében egy szemüveges W alakú
+          baglyot láthatunk
         content: >
           A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
           egy online oktatói felület tevékenységét. Egyszerű formájának
