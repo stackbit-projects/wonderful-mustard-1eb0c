@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: Grafikai tervezés munkáink
     content: |
-      ## Lorem ipsum
+      ##
     actions: []
     type: hero_section
 seo:
