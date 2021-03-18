@@ -66,7 +66,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: 'Egyedi poszterek, illusztrációk'
+      - title: 'Vászonképek, illusztrációk'
         image: images/service-3.svg
         content: |
           *   Egyedi Miskolc faliképek
