@@ -7,7 +7,7 @@ sections:
     content: |
       ##### Árajánlatért keress minket a kapcsolati űrlapon!
     actions:
-      - label: lorem-ipsum
+      - label: Árajánlat
         url: '#'
         style: link
         icon: dribbble
