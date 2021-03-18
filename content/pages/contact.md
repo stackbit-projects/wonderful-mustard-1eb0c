@@ -31,8 +31,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Elfogadom, hogy az űrlapon megadott adataim kapcsolattartáshoz való
+          tárolásához.
     submit_label: Küldés
 seo:
   title: Contact
