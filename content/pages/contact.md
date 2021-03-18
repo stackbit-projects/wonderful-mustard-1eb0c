@@ -61,7 +61,7 @@ sections:
       - input_type: textarea
         name: message
         label: Üzenet
-        default_value: Írd be az üzeneted
+        default_value: Írd be az üzeneted...
       - input_type: checkbox
         name: consent
         label: >-
