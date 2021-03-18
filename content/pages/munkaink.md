@@ -17,7 +17,9 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: Logó tervezés
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Egy jó logó egyszerűen, esztétikusan és adott esetben beszélgetés indító
+      jelentéstartalommal együtt jelképez egy vállalkozást
     col_number: three
     grid_items:
       - title: lorem-ipsum
