@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Köszönjük
 hide_title: false
 sections:
   - type: hero_section
