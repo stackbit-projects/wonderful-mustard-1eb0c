@@ -3,7 +3,7 @@ title: Erzsébet-fürdő – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomtatás'
 date: '2020-05-10'
 thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másolat.png
-thumb_image_alt: 'Az Erzsébet-fürdő illusztráció '
+thumb_image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
 sections:
   - type: image_section
     image: >-
