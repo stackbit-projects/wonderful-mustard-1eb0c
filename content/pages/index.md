@@ -29,7 +29,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Partnerek
+    title: Partnereink
     subtitle: 'Cégek, akikkel együtt dolgoztunk.'
     col_number: three
     grid_items:
