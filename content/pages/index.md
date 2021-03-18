@@ -68,15 +68,9 @@ sections:
           - Typography
       - title: 'Egyedi poszterek, illusztrációk'
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Egyedi Miskolc faliképek
+          *   Vászonképek 
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
