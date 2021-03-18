@@ -56,7 +56,7 @@ sections:
           *   Arculat tervezés
           *   Táblák, poszterek, molinók grafikai tervezése
 
-      - title: Brand design
+      - title: Nyomtatás
         image: images/service-2.svg
         content: |-
           - Brand development
