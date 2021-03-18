@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: Grafikai tervezés munkáink
     content: |
-      ## Árajánlatért keress minket a kapcsolati űrlapon!
+      ##### Árajánlatért keress minket a kapcsolati űrlapon!
     actions:
       - label: lorem-ipsum
         url: '#'
