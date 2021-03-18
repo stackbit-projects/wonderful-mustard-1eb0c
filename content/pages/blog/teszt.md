@@ -4,9 +4,7 @@ subtitle: Nézz vissza később
 date: '2021-02-12'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: Hamarosan...
 seo:
   title: The Elements of Great Workplace Design
   description: >-
