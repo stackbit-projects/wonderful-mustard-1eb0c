@@ -30,9 +30,7 @@ sections:
         default_value: Írd be az üzeneted...
       - input_type: checkbox
         name: consent
-        label: >-
-          Elfogadom, hogy az űrlapon megadott adataim kapcsolattartáshoz való
-          tárolásához.
+        label: zzoH az űrlapon megadott adataim kapcsolattartáshoz való tárolásához.
     submit_label: Küldés
 seo:
   title: Contact
