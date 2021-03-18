@@ -31,7 +31,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          járulok az űrlapon megadott adataim kapcsolattartáshoz való
+          Hozzájárulok az űrlapon megadott adataim kapcsolattartáshoz való
           tárolásához.
     submit_label: Küldés
 seo:
