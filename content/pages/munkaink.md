@@ -22,7 +22,7 @@ sections:
       jelentéstartalommal együtt jelképez egy vállalkozást
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Whatnow
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
