@@ -23,17 +23,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
+          egy online oktatói felület tevékenységét. Egyszerű formájának
+          köszönhetően a logó kis méretben is alkalmazható.
         actions: []
         type: grid_item
     type: grid_section
