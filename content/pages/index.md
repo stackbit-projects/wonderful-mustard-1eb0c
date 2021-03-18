@@ -61,7 +61,7 @@ sections:
         content: |
           *   Nagy formátumú nyomtatás
           *   Molinó nyomtatás
-      - title: 'Vászonképek, illusztrációk'
+      - title: 'Illusztrációk, vászonképek'
         image: images/service-3.svg
         content: |
           *   Egyedi Miskolc faliképek
