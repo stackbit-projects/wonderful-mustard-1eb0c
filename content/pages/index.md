@@ -8,7 +8,7 @@ sections:
     content: >
       Minden cég megérdemel egy igényes megjelenést, amivel bizalmat ébreszthet
       a leendő vevőiben, legyen szó egy közösségi média posztról, logóról, vagy
-      akár egy molinóról. 
+      akár egy molinóról.
     actions:
       - label: Kapcsolat
         url: /contact/
