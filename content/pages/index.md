@@ -30,7 +30,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Partnerek
-    subtitle: A few of the companies we're proud to call partners
+    subtitle: 'Cégek, akikkel együtt dolgoztunk.'
     col_number: three
     grid_items:
       - image: images/logo-1.svg
