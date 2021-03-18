@@ -30,7 +30,7 @@ sections:
         default_value: Írd be az üzeneted...
       - input_type: checkbox
         name: consent
-        label: k az űrlapon megadott adataim kapcsolattartáshoz való tárolásához.
+        label: lok az űrlapon megadott adataim kapcsolattartáshoz való tárolásához.
     submit_label: Küldés
 seo:
   title: Contact
