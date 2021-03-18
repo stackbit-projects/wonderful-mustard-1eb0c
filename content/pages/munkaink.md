@@ -23,7 +23,7 @@ sections:
     col_number: three
     grid_items:
       - title: Whatnow
-        subtitle: lorem-ipsum
+        subtitle: Online oktatói felület logóterv
         image_alt: lorem-ipsum
         content: >
           A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
