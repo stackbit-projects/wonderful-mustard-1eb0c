@@ -3,7 +3,7 @@ title: Weidlich-palota – egyedi falikép
 subtitle: 'Illusztráció, nyomtatás'
 date: '2021-01-10'
 thumb_image: images/weidlich-3d-render-kozeli másolat.png
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: A Weidlich-palota illusztráció 3D renderen
 sections:
   - type: image_section
     image: images/weidlich-3d-render-kozeli másolat (1).png
