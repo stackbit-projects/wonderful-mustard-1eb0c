@@ -1,5 +1,5 @@
 ---
-title: Köszönjük
+title: Köszönjük az üzeneted! Hamarosan válaszolunk!
 hide_title: false
 sections:
   - type: hero_section
