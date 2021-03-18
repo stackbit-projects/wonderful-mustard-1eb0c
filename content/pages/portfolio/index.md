@@ -1,5 +1,5 @@
 ---
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Egyedi faliképek Miskolc nevezetességeiről.
 layout_style: tiles
 seo:
   title: Portfolio
