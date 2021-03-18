@@ -34,12 +34,6 @@ sections:
     caption: >-
       Részlet a Weidlich-palota illusztrációból. Grafikai tervezőszoftver:
       Affinity Designer
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
 seo:
   title: Nature Magazine
   description: This is the sample project description
