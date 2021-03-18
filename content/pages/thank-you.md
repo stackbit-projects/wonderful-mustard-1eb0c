@@ -6,7 +6,7 @@ sections:
     content: |
       A megadott email címeden fogunk keresni.
     actions:
-      - label: Back to homepage
+      - label: Vissza a főoldalra
         url: /
         style: button
 layout: advanced
