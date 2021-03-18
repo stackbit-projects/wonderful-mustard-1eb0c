@@ -26,11 +26,6 @@
                 "style": "link"
             },
             {
-                "label": "Rólunk",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Kapcsolat",
                 "url": "/contact/",
                 "style": "button"
