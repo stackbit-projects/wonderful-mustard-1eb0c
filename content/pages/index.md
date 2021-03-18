@@ -66,7 +66,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Experience design
+      - title: 'Egyedi poszterek, illusztrációk'
         image: images/service-3.svg
         content: |-
           - Digital product design
