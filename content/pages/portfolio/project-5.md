@@ -35,7 +35,7 @@ sections:
       Részlet a Weidlich-palota illusztrációból. Grafikai tervezőszoftver:
       Affinity Designer
 seo:
-  title: Nature Magazine
+  title: Weidlich-palota – egyedi falikép
   description: This is the sample project description
   extra:
     - name: 'og:type'
