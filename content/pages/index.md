@@ -47,10 +47,6 @@ sections:
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-        image: images/fierce-sparrow.png
   - type: grid_section
     section_id: services
     title: Szolgáltatásaink
