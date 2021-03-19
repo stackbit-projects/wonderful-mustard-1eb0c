@@ -22,7 +22,7 @@ sections:
     type: image_section
     image: images/miskolc-kep-ajandek-illusztracio-varoskep.png
 seo:
-  title: Subtle
+  title: Miskolc belváros – egyedi falikép
   description: This is the sample project description
   extra:
     - name: 'og:type'
