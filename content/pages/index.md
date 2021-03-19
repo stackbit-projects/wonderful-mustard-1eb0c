@@ -46,7 +46,7 @@ sections:
       - image_alt: lorem-ipsum
         actions:
           - label: A4 Papírbolt
-            url: '#'
+            url: 'https://www.a4papirbolt.hu/'
             style: link
             icon: dribbble
             new_window: false
