@@ -35,7 +35,7 @@ sections:
           tárolásához.
     submit_label: Küldés
 seo:
-  title: Contact
+  title: Kapcsolat
   description: This is the contact page
   extra:
     - name: 'og:type'
