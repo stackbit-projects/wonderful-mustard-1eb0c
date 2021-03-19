@@ -54,7 +54,7 @@ sections:
             type: action
         type: grid_item
         image: images/a4-papirbolt-logo-terv.png
-      - image_alt: lorem-ipsum
+      - image_alt: quintessen
         content: >-
           ## Lorem ipsum
 
