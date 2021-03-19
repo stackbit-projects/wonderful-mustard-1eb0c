@@ -36,17 +36,9 @@ sections:
         image: images/whatnow-logo-tervezes.png
       - title: 'A4 Papírbolt '
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Ebben az egyszerű logóban több dolgot is felfedezhetünk: az A és 4
+          betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
         actions: []
         type: grid_item
         subtitle: Papír írószer webáruház logóterv
