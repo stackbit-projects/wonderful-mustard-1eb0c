@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: Diz
+subtitle: Érdekességek a dizájn és a tipográfia világából
 hide_title: false
 col_number: three
 seo:
