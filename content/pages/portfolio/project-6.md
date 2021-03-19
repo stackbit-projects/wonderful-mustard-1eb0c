@@ -3,7 +3,7 @@ title: Miskolc belváros – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomatás'
 date: '2021-02-06'
 thumb_image: images/pleasant-rosemary.png
-thumb_image_alt: Subtle preview
+thumb_image_alt: Miskolc belváros egyedi falikép illusztráció egy 3D renderen
 sections:
   - type: image_section
     image: images/belvaros-3d-render-kozeli másolat (1).png
