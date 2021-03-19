@@ -33,16 +33,6 @@ sections:
     subtitle: 'Cégek, akikkel együtt dolgoztunk.'
     col_number: three
     grid_items:
-      - image: images/adorable-pine.png
-        image_alt: Logo 1
-        actions:
-          - label: Whist Kft.
-            url: 'https://whist.hu/'
-            style: link
-            icon: dribbble
-            new_window: true
-            no_follow: false
-            type: action
       - image_alt: quintessence-palinka-onga-logo
         actions:
           - label: Quintessence Pálinka
@@ -54,6 +44,16 @@ sections:
             type: action
         type: grid_item
         image: images/quintessence-palinka-onga-logo (1).png
+      - image: images/adorable-pine.png
+        image_alt: Logo 1
+        actions:
+          - label: Whist Kft.
+            url: 'https://whist.hu/'
+            style: link
+            icon: dribbble
+            new_window: true
+            no_follow: false
+            type: action
       - image_alt: lorem-ipsum
         actions:
           - label: A4 Papírbolt
