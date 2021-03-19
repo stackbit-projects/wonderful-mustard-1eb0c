@@ -33,7 +33,7 @@ sections:
     subtitle: 'Cégek, akikkel együtt dolgoztunk.'
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/whist-partner-logo-1 2.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2
