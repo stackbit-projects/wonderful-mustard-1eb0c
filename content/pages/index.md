@@ -54,7 +54,7 @@ sections:
             type: action
         type: grid_item
         image: images/a4-papirbolt-logo-terv.png
-      - image_alt: quintessen
+      - image_alt: quintessence-palinka-onga-logo
         content: >-
           ## Lorem ipsum
 
