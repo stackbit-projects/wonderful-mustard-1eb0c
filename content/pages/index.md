@@ -56,7 +56,7 @@ sections:
         image: images/a4-papirbolt-logo-terv.png
       - image_alt: quintessence-palinka-onga-logo
         actions:
-          - label: lorem-ipsum
+          - label: Quintessence Pálinka
             url: '#'
             style: link
             icon: dribbble
