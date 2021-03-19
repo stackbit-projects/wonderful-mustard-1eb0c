@@ -53,7 +53,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-        image: images/a4-papirbolt-logo-terv.png
+        image: images/a4-papirbolt-logoterv-weboldal.png
       - image_alt: quintessence-palinka-onga-logo
         actions:
           - label: Quintessence Pálinka
