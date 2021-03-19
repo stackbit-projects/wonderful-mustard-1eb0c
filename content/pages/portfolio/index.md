@@ -3,7 +3,7 @@ subtitle: Egyedi faliképek Miskolc nevezetességeiről.
 layout_style: tiles
 seo:
   title: Bekeretezhető Miskolc illusztrációk
-  description: Illusztrációk Miskolc nevezetességeiről. Egyedi ajándékötlet 
+  description: Illusztrációk Miskolc nevezetességeiről. Egyedi ajándékötlet a várost és/vagy az építészetet kedvelőknek.
   extra:
     - name: 'og:type'
       value: website
