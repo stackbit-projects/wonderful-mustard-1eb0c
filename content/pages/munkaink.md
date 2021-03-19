@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Munkáink
 hide_title: true
 sections:
   - section_id: lorem-ipsum
