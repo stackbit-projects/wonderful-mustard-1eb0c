@@ -47,8 +47,7 @@ sections:
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
