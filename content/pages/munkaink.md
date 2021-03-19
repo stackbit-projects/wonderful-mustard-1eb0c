@@ -8,7 +8,7 @@ sections:
       ##### Árajánlatért keress minket a kapcsolati űrlapon!
     actions:
       - label: Árajánlat
-        url: /kapcsolat
+        url: /kapcsolat/
         style: link
         icon: dribbble
         new_window: false
