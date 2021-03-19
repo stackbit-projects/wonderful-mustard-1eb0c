@@ -40,7 +40,7 @@ sections:
             url: 'https://whist.hu/'
             style: link
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
       - image: images/logo-2.svg
