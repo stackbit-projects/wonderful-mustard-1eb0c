@@ -30,7 +30,7 @@ sections:
 
       *   50 x 70 cm
 seo:
-  title: Nature Mockup Magazine
+  title: Erzsébet-fürdő – egyedi falikép
   description: This is the sample project description
   extra:
     - name: 'og:type'
