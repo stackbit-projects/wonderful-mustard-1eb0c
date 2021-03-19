@@ -57,6 +57,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/a4-papirbolt-logo-terv.png
   - type: grid_section
     section_id: services
     title: Szolgáltatásaink
