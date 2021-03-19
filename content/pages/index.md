@@ -33,7 +33,7 @@ sections:
     subtitle: 'Cégek, akikkel együtt dolgoztunk.'
     col_number: three
     grid_items:
-      - image: images/whist-partner-logo.png
+      - image: images/adorable-pine.png
         image_alt: Logo 1
         actions:
           - label: Whist Kft.
