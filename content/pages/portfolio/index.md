@@ -2,7 +2,7 @@
 subtitle: Egyedi faliképek Miskolc nevezetességeiről.
 layout_style: tiles
 seo:
-  title: Portfolio
+  title: 
   description: This is the portfolio page
   extra:
     - name: 'og:type'
