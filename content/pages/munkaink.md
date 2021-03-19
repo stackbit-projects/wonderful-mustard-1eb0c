@@ -49,6 +49,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        subtitle: Papír írószer webáruház logóterv
     type: grid_section
 seo:
   title: ''
