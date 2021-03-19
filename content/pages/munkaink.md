@@ -35,7 +35,6 @@ sections:
         type: grid_item
         image: images/whatnow-logo-tervezes.png
       - title: 'A4 Papírbolt '
-        subtitle: Papír
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
