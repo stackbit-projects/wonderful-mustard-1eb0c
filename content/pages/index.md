@@ -43,17 +43,6 @@ sections:
             new_window: true
             no_follow: false
             type: action
-      - image_alt: lorem-ipsum
-        actions:
-          - label: A4 Papírbolt
-            url: 'https://www.a4papirbolt.hu/'
-            style: link
-            icon: dribbble
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
-        image: images/a4-papirbolt-logoterv-weboldal.png
       - image_alt: quintessence-palinka-onga-logo
         actions:
           - label: Quintessence Pálinka
@@ -65,6 +54,17 @@ sections:
             type: action
         type: grid_item
         image: images/quintessence-palinka-onga-logo (1).png
+      - image_alt: lorem-ipsum
+        actions:
+          - label: A4 Papírbolt
+            url: 'https://www.a4papirbolt.hu/'
+            style: link
+            icon: dribbble
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+        image: images/a4-papirbolt-logoterv-weboldal.png
   - type: grid_section
     section_id: services
     title: Szolgáltatásaink
