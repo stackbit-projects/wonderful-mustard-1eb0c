@@ -50,6 +50,7 @@ sections:
         actions: []
         type: grid_item
         subtitle: Papír írószer webáruház logóterv
+        image: images/A4-papirbolt-logoterv.png
     type: grid_section
 seo:
   title: ''
