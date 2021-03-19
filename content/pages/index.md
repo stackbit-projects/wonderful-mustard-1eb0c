@@ -56,7 +56,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: A4 Pap
+          - label: A4 Papírbolt
             url: '#'
             style: link
             icon: dribbble
