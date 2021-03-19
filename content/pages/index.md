@@ -37,7 +37,7 @@ sections:
         image_alt: Logo 1
         actions:
           - label: Whist Kft.
-            url: '#'
+            url: 'https://whist.hu/'
             style: link
             icon: dribbble
             new_window: false
