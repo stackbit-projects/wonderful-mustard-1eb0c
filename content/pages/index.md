@@ -56,7 +56,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: A4 Pap
             url: '#'
             style: link
             icon: dribbble
