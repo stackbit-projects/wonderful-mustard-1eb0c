@@ -43,8 +43,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
   - type: grid_section
