@@ -36,7 +36,7 @@ sections:
       - image: images/whist-partner-logo.png
         image_alt: Logo 1
         actions:
-          - label: lorem-ipsum
+          - label: Whist Kft.
             url: '#'
             style: link
             icon: dribbble
