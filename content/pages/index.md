@@ -44,17 +44,6 @@ sections:
             no_follow: false
             type: action
       - image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions:
           - label: A4 Papírbolt
             url: '#'
