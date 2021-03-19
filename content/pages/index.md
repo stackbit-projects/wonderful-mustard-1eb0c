@@ -35,6 +35,14 @@ sections:
     grid_items:
       - image: images/whist-partner-logo-1 2.png
         image_alt: Logo 1
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
