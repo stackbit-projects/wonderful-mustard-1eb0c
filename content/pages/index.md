@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Grafikai tervezés
+    title: Igényes grafikai tervezés igényes cégeknek
     content: >
       Minden jó cég megérdemel egy igényes megjelenést, amivel bizalmat
       ébreszthet a leendő vevőiben, legyen szó egy közösségi média posztról,
