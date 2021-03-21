@@ -52,6 +52,6 @@ seo:
     - name: 'twitter:title'
       value: Kapcsolat | Pennarello Kft.
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Árajánlatkérés grafikai tervezésre, és egyedi Miskolc faliképek rendelése
 layout: advanced
 ---
