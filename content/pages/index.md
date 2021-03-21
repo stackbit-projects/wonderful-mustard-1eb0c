@@ -118,7 +118,7 @@ sections:
         type: grid_item
         image: images/whatnow-logo-tervezes.png
       - title: A4 Papírbolt
-        subtitle: lorem-ipsum
+        subtitle: Papír írószer webáruház logóterv
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
