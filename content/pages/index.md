@@ -103,7 +103,7 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Gipsz Jakab
-    subtitle: lorem-ipsum
+    subtitle: Kókány Bt.
     image_alt: lorem-ipsum
     content: |
       > Nagyon elégedett vagyok bla-bla-bla, bátran ajánlom őket, stb
