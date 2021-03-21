@@ -102,7 +102,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Gipsz Jakab
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
