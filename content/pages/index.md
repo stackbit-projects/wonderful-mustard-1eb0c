@@ -45,7 +45,9 @@ sections:
         image: images/whatnow-logo-tervezes.png
       - title: A4 Papírbolt
         subtitle: Papír írószer webáruház logóterv
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Az A4 Papírbolt logótervén az összeolvasztott A és 4 karakterek
+          mellett egy ceruzahegyet és egy körzőt is felfedezhetünk.
         content: >
           Ebben az egyszerű logóban több dolgot is felfedezhetünk: az A és 4
           betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
