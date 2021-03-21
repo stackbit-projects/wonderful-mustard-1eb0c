@@ -73,11 +73,11 @@ sections:
     grid_items:
       - title: Grafikai tervezés
         image: images/service-1.svg
-        content: |+
+        content: |
           *   Logó tervezés
           *   Arculat tervezés
+          *   Branding
           *   Táblák, poszterek, molinók grafikai tervezése
-
       - title: Nyomtatás
         image: images/service-2.svg
         content: |
