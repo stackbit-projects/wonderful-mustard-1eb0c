@@ -6,9 +6,8 @@ sections:
     section_id: hero
     title: Az igényes vizuális megjelenés a legrövidebb út az azonnali bizalomhoz.
     content: >
-      Minden jó cég megérdemel egy igényes megjelenést, amivel bizalmat
-      ébreszthet a leendő vevőiben, legyen szó egy közösségi média posztról,
-      logóról, vagy akár egy molinóról.
+      Minden jó cég megérdemel egy megnyerő megjelenést, amivel bizalmat
+      ébreszthet a leendő vevőiben.
     actions:
       - label: Tervezzünk valami szépet
         url: /contact/
