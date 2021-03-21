@@ -45,12 +45,12 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: Kapcsolat
+      value: Kapcsolat | Pennarello Kft.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Kapcsolat | Pennarello Kft.
     - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
