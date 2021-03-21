@@ -103,7 +103,6 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Logó terveink
-    subtitle: 'Letisztult, egyszerű'
     col_number: three
     grid_items: []
     type: grid_section
