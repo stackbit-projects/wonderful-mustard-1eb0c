@@ -108,17 +108,12 @@ sections:
       - title: Whatnow
         subtitle: Online oktató felület logóterv
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
+          egy online oktatói felület tevékenységét. Egyszerű formájának
+          köszönhetően a logó kis méretben is alkalmazható.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
         image: images/whatnow-logo-tervezes.png
