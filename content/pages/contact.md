@@ -35,7 +35,7 @@ sections:
           tárolásához.
     submit_label: Küldés
 seo:
-  title: Kapcsolat
+  title: Kapcsolat | Pennarello Kft.
   description: This is the contact page
   extra:
     - name: 'og:type'
