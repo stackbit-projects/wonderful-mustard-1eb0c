@@ -35,7 +35,7 @@ sections:
         type: grid_item
         image: images/whatnow-logo-tervezes.png
       - title: 'A4 Papírbolt '
-        image_alt: Az A4 Papírbolt logóterv
+        image_alt: 'Az A4 Papírbolt logóterv '
         content: >
           Ebben az egyszerű logóban több dolgot is felfedezhetünk: az A és 4
           betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
