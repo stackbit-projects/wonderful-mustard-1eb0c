@@ -45,7 +45,7 @@ sections:
         image: images/A4-papirbolt-logoterv.png
     type: grid_section
 seo:
-  title: ''
+  title: 'Grafikai tervezés munkáink | Pennarello Kft. '
   description: ''
   robots: []
   extra: []
