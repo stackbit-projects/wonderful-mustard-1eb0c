@@ -109,6 +109,11 @@ seo:
     egyedi arculattal, nyomtatott anyagokkal, vagy közösségi média posztokkal
     mutatnák be vállalkozásukat.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: >-
+        /images/og-kep-pennarello-grafikai-tervezes-miskolc-egyedi-illusztracio.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
