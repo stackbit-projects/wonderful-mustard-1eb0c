@@ -104,7 +104,10 @@ sections:
 layout: advanced
 seo:
   title: 'Pennarello Kft. | Grafikai tervezés, egyedi illusztrált faliképek'
-  description: ''
+  description: >-
+    Grafikai tervezési megoldásokat kínálunk olyanok számára, akik igényes és
+    egyedi arculattal, nyomtatott anyagokkal, vagy közösségi média posztokkal
+    mutatnák be vállalkozásukat.
   robots: []
   extra: []
   type: stackbit_page_meta
