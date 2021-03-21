@@ -46,7 +46,9 @@ sections:
     type: grid_section
 seo:
   title: 'Grafikai tervezés munkáink | Pennarello Kft. '
-  description: ''
+  description: >-
+    Bemutatjuk, milyen eredményre számíthatsz ha minket választasz grafikai
+    tervezésre.
   robots: []
   extra: []
   type: stackbit_page_meta
