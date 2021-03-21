@@ -103,7 +103,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: 'Pennarello Kft. | Grafikai tervezés, egyedi illusztrált faliképek'
   description: ''
   robots: []
   extra: []
