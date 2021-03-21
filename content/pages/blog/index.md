@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog  |  Pennarello Kft.
-  description: This is the journal page
+  description: 'Érdekességek a dizájn, a branding és a tipográfia világából.'
   extra:
     - name: 'og:type'
       value: website
