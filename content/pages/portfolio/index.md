@@ -2,8 +2,10 @@
 subtitle: Egyedi faliképek Miskolc nevezetességeiről.
 layout_style: tiles
 seo:
-  title: Bekeretezhető Miskolc illusztrációk
-  description: Illusztrációk Miskolc nevezetességeiről. Egyedi ajándékötlet a várost és/vagy az építészetet kedvelőknek.
+  title: Bekeretezhető Miskolc illusztrációk  |  Pennarello Kft.
+  description: >-
+    Illusztrációk Miskolc nevezetességeiről. Egyedi ajándékötlet a várost
+    és/vagy az építészetet kedvelőknek.
   extra:
     - name: 'og:type'
       value: website
