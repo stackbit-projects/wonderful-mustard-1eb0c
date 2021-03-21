@@ -101,13 +101,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: Gipsz Jakab
-    subtitle: Kókány Bt.
-    image_alt: lorem-ipsum
-    content: |
-      > Nagyon elégedett vagyok bla-bla-bla, bátran ajánlom őket, stb
-    type: content_section
 layout: advanced
 seo:
   title: 'Pennarello Kft. | Grafikai tervezés, egyedi illusztrált faliképek'
