@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: Az igényes vizuális megjelenés a legrövidebb út az azonnali bizalomhoz.
     content: >
-      Minden jó cég megérdemel egy megnyerő megjelenést, amivel bizalmat
-      ébreszthet a leendő vevőiben.
+      Megnyerő grafikai anyagokkal bizalmat ébreszthetsz a leendő vevőidben,
+      feliratkozóidban vagy partnereidben.
     actions:
       - label: Tervezzünk valami szépet
         url: /contact/
