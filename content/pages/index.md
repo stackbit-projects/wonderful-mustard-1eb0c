@@ -117,7 +117,7 @@ sections:
         actions: []
         type: grid_item
         image: images/whatnow-logo-tervezes.png
-      - title: lorem-ipsum
+      - title: A4 Papírbolt
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
