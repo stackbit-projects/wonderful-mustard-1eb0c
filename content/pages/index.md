@@ -10,7 +10,7 @@ sections:
       ébreszthet a leendő vevőiben, legyen szó egy közösségi média posztról,
       logóról, vagy akár egy molinóról.
     actions:
-      - label: Kapcsolat
+      - label: Tervezzünk valami szépet
         url: /contact/
         style: button
         icon: dribbble
