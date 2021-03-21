@@ -27,6 +27,32 @@ sections:
     projects_number: 6
     view_all_label: Mind megtekintése
     view_all_url: portfolio
+  - section_id: lorem-ipsum
+    title: Logó terveink
+    col_number: three
+    grid_items:
+      - title: Whatnow
+        subtitle: Online oktató felület logóterv
+        image_alt: lorem-ipsum
+        content: >+
+          A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
+          egy online oktatói felület tevékenységét. Egyszerű formájának
+          köszönhetően a logó kis méretben is alkalmazható.
+
+
+        actions: []
+        type: grid_item
+        image: images/whatnow-logo-tervezes.png
+      - title: A4 Papírbolt
+        subtitle: Papír írószer webáruház logóterv
+        image_alt: lorem-ipsum
+        content: >
+          Ebben az egyszerű logóban több dolgot is felfedezhetünk: az A és 4
+          betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
+        actions: []
+        type: grid_item
+        image: images/A4-papirbolt-logoterv.png
+    type: grid_section
   - type: grid_section
     section_id: clients
     title: Partnereink
@@ -65,32 +91,6 @@ sections:
             type: action
         type: grid_item
         image: images/a4-papirbolt-logoterv-weboldal.png
-  - section_id: lorem-ipsum
-    title: Logó terveink
-    col_number: three
-    grid_items:
-      - title: Whatnow
-        subtitle: Online oktató felület logóterv
-        image_alt: lorem-ipsum
-        content: >+
-          A logóban egy W alakú szemüveges baglyot láthatunk, ami jól kifejezi
-          egy online oktatói felület tevékenységét. Egyszerű formájának
-          köszönhetően a logó kis méretben is alkalmazható.
-
-
-        actions: []
-        type: grid_item
-        image: images/whatnow-logo-tervezes.png
-      - title: A4 Papírbolt
-        subtitle: Papír írószer webáruház logóterv
-        image_alt: lorem-ipsum
-        content: >
-          Ebben az egyszerű logóban több dolgot is felfedezhetünk: az A és 4
-          betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
-        actions: []
-        type: grid_item
-        image: images/A4-papirbolt-logoterv.png
-    type: grid_section
   - type: grid_section
     section_id: services
     title: Szolgáltatásaink
