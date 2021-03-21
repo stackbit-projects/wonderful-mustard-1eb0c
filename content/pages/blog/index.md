@@ -4,7 +4,7 @@ subtitle: Érdekességek a dizájn és a tipográfia világából.
 hide_title: false
 col_number: three
 seo:
-  title: Journal
+  title: Blog  |  Pennarello Kft.
   description: This is the journal page
   extra:
     - name: 'og:type'
