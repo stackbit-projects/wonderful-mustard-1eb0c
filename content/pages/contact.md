@@ -42,7 +42,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Kapcsolat | Pennarello Kft.
       keyName: property
     - name: 'og:description'
       value: Kapcsolat | Pennarello Kft.
