@@ -106,7 +106,7 @@ sections:
     col_number: three
     grid_items:
       - title: Whatnow
-        subtitle: lorem-ipsum
+        subtitle: Online oktató felület logóterv
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
