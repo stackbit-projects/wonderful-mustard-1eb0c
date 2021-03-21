@@ -6,9 +6,9 @@ sections:
     section_id: hero
     title: Grafikai tervezés
     content: >
-      Minden cég megérdemel egy igényes megjelenést, amivel bizalmat ébreszthet
-      a leendő vevőiben, legyen szó egy közösségi média posztról, logóról, vagy
-      akár egy molinóról.
+      Minden jó cég megérdemel egy igényes megjelenést, amivel bizalmat
+      ébreszthet a leendő vevőiben, legyen szó egy közösségi média posztról,
+      logóról, vagy akár egy molinóról.
     actions:
       - label: Kapcsolat
         url: /contact/
