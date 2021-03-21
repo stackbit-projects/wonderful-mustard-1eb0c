@@ -125,6 +125,7 @@ sections:
           betűk összeolvasztása mellett egy ceruzahegy és egy körző is megbújik.
         actions: []
         type: grid_item
+        image: images/A4-papirbolt-logoterv.png
     type: grid_section
 layout: advanced
 seo:
