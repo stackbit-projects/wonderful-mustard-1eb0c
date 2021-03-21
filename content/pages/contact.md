@@ -36,7 +36,7 @@ sections:
     submit_label: Küldés
 seo:
   title: Kapcsolat | Pennarello Kft.
-  description: This is the contact page
+  description: 'Árajánlatkérés grafikai tervezésre, és egyedi Miskolc faliképek rendelése'
   extra:
     - name: 'og:type'
       value: website
