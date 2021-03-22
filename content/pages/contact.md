@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     content: >
       Készítsünk neked valami szépet! Ha árajánlatot szeretnél, vagy kérdésed 
-      van, töltsd ki a kapcsolati űrlapot az oldalon, vagy írj egy email az
+      van, töltsd ki a kapcsolati űrlapot az oldalon, vagy írj egy emailt az
       <info@pennarello.hu> címen!
 
 
@@ -52,6 +52,8 @@ seo:
     - name: 'twitter:title'
       value: Kapcsolat | Pennarello Kft.
     - name: 'twitter:description'
-      value: Árajánlatkérés grafikai tervezésre, és egyedi Miskolc faliképek rendelése
+      value: >-
+        Árajánlatkérés grafikai tervezésre, és egyedi Miskolc faliképek
+        rendelése
 layout: advanced
 ---
