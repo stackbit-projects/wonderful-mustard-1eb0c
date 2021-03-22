@@ -29,8 +29,9 @@ seo:
         content
 layout: page
 ---
-
 This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
+
+\<iframe src='https://my.spline.design/untitled-c1e850a2d7932c11ad87591e411ce651/' frameborder='0' width='100%' height='100%'>\</iframe> 
 
 # This is an H1
 
@@ -52,46 +53,44 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.
+> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.
 >
->&mdash; Scott Adams
+> — Scott Adams
 
 Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
 ## Unordered and Ordered Lists
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+*   Donec non tortor in arcu mollis feugiat
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+*   Donec id eros eget quam aliquam gravida
+*   Vivamus convallis urna id felis
+*   Nulla porta tempus sapien
 
 ***
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+1.  Donec non tortor in arcu mollis feugiat
+2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+3.  Donec id eros eget quam aliquam gravida
+4.  Vivamus convallis urna id felis
+5.  Nulla porta tempus sapien
 
 ## Code Blocks
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
+    let sequence = [1, 1, 2, 3, 5, 8, 13];
+    for (let i = 0; i < sequence.length; i++) {
+      console.log(sequence[i]);
+    }
 
 ## Inline Elements
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emphasis, aka italics, with *asterisks* or *underscores*.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **_asterisks and underscores_**.
+Combined emphasis with ***asterisks and underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
