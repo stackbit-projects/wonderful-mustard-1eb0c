@@ -1,7 +1,7 @@
 ---
 title: Avasi templom – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomtatás'
-date: '0002-05-10'
+date: '2021-05-10'
 thumb_image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
 sections:
   - type: image_section
