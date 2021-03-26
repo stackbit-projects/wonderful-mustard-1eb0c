@@ -32,6 +32,7 @@ sections:
     caption: Az Avasi templom és a harangtorony részletei az illusztráción.
     width: regular
     type: image_section
+    image: images/avasi-templom-miskolc-dekor-kep.png
 seo:
   title: Erzsébet-fürdő – egyedi falikép
   description: This is the sample project description
