@@ -28,7 +28,7 @@ sections:
 
       *   50 x 70 cm
 
-  - image_alt: lorem-ipsum
+  - image_alt: Részletek az Avasi templom és a harangtorony épületeiről.
     caption: Az Avasi templom és a harangtorony részletei az illusztráción.
     width: regular
     type: image_section
