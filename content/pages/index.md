@@ -62,7 +62,7 @@ sections:
     grid_items:
       - image_alt: quintessence-palinka-onga-logo
         actions:
-          - label: Quintessence Pálinka
+          - label: Quintessence
             url: 'https://quintessence-palinka.hu/hu/'
             style: link
             icon: dribbble
