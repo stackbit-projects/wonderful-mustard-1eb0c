@@ -60,5 +60,5 @@ seo:
       value: images/work-book-1.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másolat.png
+thumb_image: images/avasi-templom-harangtorony-kep-illusztració-falikep (1).png
 ---
