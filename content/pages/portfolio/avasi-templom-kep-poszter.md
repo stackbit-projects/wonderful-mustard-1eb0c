@@ -9,7 +9,7 @@ sections:
       images/erzsebet-furdo-miskolc-illusztracio-3d-render-kozeli másolat
       (1).png
     image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
-    caption: Az Erzsébet-fürdő illusztráció 3D renderen.
+    caption: Az Avasi templom illusztráció 3D renderen.
     width: wide
   - type: text_section
     content: >
