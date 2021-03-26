@@ -6,7 +6,7 @@ thumb_image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
 sections:
   - type: image_section
     image: images/avasi-templom-kep-illusztració-falikep.png
-    image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
+    image_alt: Az Avasi templom illusztráció 3D renderen.
     caption: Az Avasi templom illusztráció 3D renderen.
     width: wide
   - type: text_section
