@@ -12,13 +12,14 @@ sections:
     caption: Az Avasi templom illusztráció 3D renderen.
     width: wide
   - type: text_section
-    content: >
-      Az Erzsébet-fürdő kék kupolájával meghatározó épülete az Erzsébet térnek.
-      A tér mellet csörgedező Szinva felett átívelő gyalogos hidacska szintén az
-      Erzsébet nevet viseli.
+    content: >+
+      Miskolc Belvárosának legrégebbi épülete a 13. század óta díszíti az Avas
+      dombját. A templom harangtornya egy különálló épületet képez, amiből
+      negyedóránként csendül fel a jellegzetes harangjáték, a Wittingtoni
+      dallam. 
 
 
-      **Az Erzsébet-fürdő illusztráció 3 méretben érhető el:**
+      **Az Avasi templom illusztráció 3 méretben érhető el:**
 
 
       *   A3 (29,7 x 42 cm)
@@ -28,6 +29,7 @@ sections:
 
 
       *   50 x 70 cm
+
 seo:
   title: Erzsébet-fürdő – egyedi falikép
   description: This is the sample project description
