@@ -28,6 +28,10 @@ sections:
 
       *   50 x 70 cm
 
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: Erzsébet-fürdő – egyedi falikép
   description: This is the sample project description
