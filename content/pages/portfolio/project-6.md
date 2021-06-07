@@ -20,7 +20,7 @@ sections:
       képként.
     width: regular
     type: image_section
-    image: images/miskolc-kep-ajandek-illusztracio-varoskep.png
+    image: images/miskolc-ajandek-szuvenir-nemzeti-szinhaz-kep.jpeg
 seo:
   title: Miskolc belváros – egyedi falikép
   description: This is the sample project description
