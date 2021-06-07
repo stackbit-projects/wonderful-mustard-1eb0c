@@ -30,8 +30,8 @@ sections:
       Így nézne ki egy nappaliban a Miskolc belváros illusztráció bekeretezett
       képként.
     caption: >-
-      Így nézne ki egy nappaliban a Miskolc belváros illusztráció bekeretezett
-      képként.
+      Így nézne ki egy nappaliban a Miskolci Nemzeti Színházról készült
+      illusztráció bekeretezett képként.
     width: regular
     type: image_section
     image: images/miskolc-ajandek-szuvenir-nemzeti-szinhaz-kep.jpeg
