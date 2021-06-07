@@ -46,7 +46,8 @@ seo:
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: >-
+        /_static/app-assets/avasi-templom-harangtorony-kep-illusztracio%CC%81-falikep%20(1).png
       relativeUrl: true
 layout: project
 thumb_image: images/miskolc-szuvenir-ajandek-kep-varoshaza másolat.png
