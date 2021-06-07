@@ -1,5 +1,5 @@
 ---
-title: Miskolc belváros – egyedi falikép
+title: Miskolci Nemzeti Színház – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomatás'
 date: '2021-02-06'
 thumb_image: images/miskolc-nemzeti-szinhaz-varoskep-illusztracio.png
