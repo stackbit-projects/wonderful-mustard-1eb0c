@@ -6,7 +6,7 @@ thumb_image: images/miskolc-szuvenir-ajandek-nemzeti-szinhaz-varoskep-illusztrac
 thumb_image_alt: Miskolc belváros egyedi falikép illusztráció egy 3D renderen
 sections:
   - type: image_section
-    image: images/miskolc-nemzeti-szinhaz-varoskep-illusztracio.png
+    image: images/miskolc-ajandek-kep-belvaros másolat.png
     image_alt: Miskolc Belváros egyedi illusztráció 3D renderen
     caption: >-
       A Színház illusztrációja 3D renderen. Használt szoftver: Affinity Designer
