@@ -35,7 +35,8 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: >-
+        /_static/app-assets/avasi-templom-harangtorony-kep-illusztracio%CC%81-falikep%20(1).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
