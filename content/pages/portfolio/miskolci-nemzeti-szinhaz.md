@@ -31,7 +31,7 @@ sections:
     type: image_section
     image: images/miskolc-ajandek-szuvenir-nemzeti-szinhaz-kep.jpeg
 seo:
-  title: Miskolc belváros – egyedi falikép
+  title: Miskolci Nemzeti Színház – egyedi falikép
   description: This is the sample project description
   extra:
     - name: 'og:type'
