@@ -6,7 +6,7 @@ thumb_image_alt: Miskolc belváros egyedi falikép illusztráció egy 3D rendere
 sections:
   - type: image_section
     image: images/miskolc-nemzeti-szinhaz-varoskep-illusztracio.png
-    image_alt: Miskolc Belváros egyedi illusztráció 3D renderen
+    image_alt: Miskolci Nemzeti Színház egyedi illusztráció 3D renderen
     caption: 'A Színház illusztráció 3D renderen. Használt szoftver: Blender'
     width: wide
   - type: text_section
