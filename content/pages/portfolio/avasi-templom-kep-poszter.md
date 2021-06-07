@@ -20,7 +20,7 @@ sections:
     caption: Az illusztráció bekeretezett képként.
     width: regular
     type: image_section
-    image: images/miskolc-kep-ajandek-varoshaza.jpeg
+    image: images/avasi-templom-miskolc-dekor-kep.png
 seo:
   title: Avasi templom – egyedi falikép
   description: Bekeretezhető illusztráció a miskolci belváros legöregebb épületéről.
