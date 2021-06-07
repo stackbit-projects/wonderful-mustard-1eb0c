@@ -2,7 +2,7 @@
 title: Miskolc Belváros – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomatás'
 date: '2021-02-06'
-thumb_image: images/miskolc-szuvenir-ajandek-nemzeti-szinhaz-varoskep-illusztracio.png
+thumb_image: images/miskolc-ajandek-kep-belvaros másolat.png
 thumb_image_alt: Miskolc belváros egyedi falikép illusztráció egy 3D renderen
 sections:
   - type: image_section
