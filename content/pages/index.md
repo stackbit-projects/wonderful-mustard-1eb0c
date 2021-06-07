@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Az igényes vizuális megjelenés a legrövidebb út az azonnali bizalomhoz.
+    title: Nyerj azonnali bizalmat egy igényes vizuális megjelenéssel
     content: >
       Digitális és nyomtatott grafikai anyagok megvalósításában az elejétől a
       végéig a partnereid vagyunk.
