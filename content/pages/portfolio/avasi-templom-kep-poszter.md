@@ -32,7 +32,7 @@ seo:
       value: Avasi templom – egyedi falikép
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: Bekeretezhető illusztráció a miskolci belváros legöregebb épületéről.
       keyName: property
     - name: 'og:image'
       value: >-
