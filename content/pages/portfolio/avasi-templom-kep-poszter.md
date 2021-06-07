@@ -25,7 +25,7 @@ sections:
 
       *   A2 (42 x 59,4 cm)
   - image_alt: Részletek a miskolci Avasi templom és a harangtorony épületeiről.
-    caption: Az Avasi templom és a harangtorony részletei az illusztráción.
+    caption: Az illusztráció bekeretezett képként.
     width: regular
     type: image_section
     image: images/miskolc-kep-ajandek-varoshaza.jpeg
