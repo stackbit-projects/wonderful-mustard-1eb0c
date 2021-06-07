@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:title'
       value: Avasi templom – egyedi falikép
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: Bekeretezhető illusztráció a miskolci belváros legöregebb épületéről.
     - name: 'twitter:image'
       value: >-
         /_static/app-assets/avasi-templom-harangtorony-kep-illusztracio%CC%81-falikep%20(1).png
