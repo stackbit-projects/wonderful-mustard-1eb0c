@@ -50,5 +50,5 @@ seo:
         /_static/app-assets/avasi-templom-harangtorony-kep-illusztracio%CC%81-falikep%20(1).png
       relativeUrl: true
 layout: project
-thumb_image: images/miskolc-szuvenir-ajandek-kep-varoshaza másolat.png
+thumb_image: images/avasi-templom-harangtorony-kep-illusztració-falikep (1).png
 ---
