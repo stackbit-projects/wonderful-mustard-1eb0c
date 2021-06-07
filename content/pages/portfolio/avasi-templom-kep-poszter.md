@@ -23,7 +23,7 @@ sections:
     image: images/miskolc-kep-ajandek-varoshaza.jpeg
 seo:
   title: Avasi templom – egyedi falikép
-  description: This is the sample project description
+  description: Bekeretezhető illusztráció a miskolci belváros legöregebb épületéről.
   extra:
     - name: 'og:type'
       value: website
