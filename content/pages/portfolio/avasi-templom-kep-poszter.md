@@ -48,5 +48,5 @@ seo:
       value: images/work-book-1.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/avasi-templom-harangtorony-kep-illusztració-falikep (1).png
+thumb_image: images/miskolc-szuvenir-ajandek-kep-varoshaza másolat.png
 ---
