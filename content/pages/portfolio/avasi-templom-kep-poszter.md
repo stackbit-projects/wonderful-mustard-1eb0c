@@ -7,7 +7,7 @@ sections:
   - type: image_section
     image: images/miskolc-szuvenir-ajandek-kep-varoshaza.png
     image_alt: Az Avasi templom illusztráció 3D renderen.
-    caption: Az Avasi templom illusztráció 3D renderen.
+    caption: A Városháza illusztrációja 3D renderen.
     width: wide
   - type: text_section
     content: >+
