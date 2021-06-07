@@ -1,6 +1,6 @@
 ---
 subtitle: Egyedi faliképek Miskolc nevezetességeiről.
-layout_style: tiles
+layout_style: mosaic
 seo:
   title: Bekeretezhető Miskolc illusztrációk  |  Pennarello Kft.
   description: >-
