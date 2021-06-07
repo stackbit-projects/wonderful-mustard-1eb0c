@@ -5,7 +5,7 @@ date: '2021-03-26'
 thumb_image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
 sections:
   - type: image_section
-    image: images/avasi-templom-kep-illusztració-falikep.png
+    image: images/miskolc-szuvenir-ajandek-kep-varoshaza.png
     image_alt: Az Avasi templom illusztráció 3D renderen.
     caption: Az Avasi templom illusztráció 3D renderen.
     width: wide
