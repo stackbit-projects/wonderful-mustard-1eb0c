@@ -10,18 +10,10 @@ sections:
     caption: A Városháza illusztrációja 3D renderen.
     width: wide
   - type: text_section
-    content: >
-      Miskolc Belvárosának legrégebbi épülete a 13. század óta díszíti az Avas
-      dombját. A templom harangtornya egy különálló épületet képez, amiből
-      negyedóránként csendül fel a jellegzetes harangjáték, a Wittingtoni
-      dallam.
-
-
+    content: |
       **Az Városháza illusztráció 2 méretben érhető el:**
 
-
       *   A3 (29,7 x 42 cm)
-
 
       *   A2 (42 x 59,4 cm)
   - image_alt: Részletek a miskolci Avasi templom és a harangtorony épületeiről.
