@@ -1,5 +1,5 @@
 ---
-title: Avasi templom és harangtorony – egyedi falikép
+title: Városháza – egyedi falikép
 subtitle: 'Grafikai tervezés, nyomtatás'
 date: '2021-03-26'
 thumb_image_alt: Az Erzsébet-fürdő illusztráció 3D renderen.
