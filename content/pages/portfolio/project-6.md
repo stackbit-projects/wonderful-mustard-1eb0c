@@ -13,19 +13,7 @@ sections:
       és Blender
     width: wide
   - type: text_section
-    content: >
-      A poszter a miskolci Főutca egyik legjellegzetesebb épületét illusztrálja.
-      Az 1857-ben befejezett épület meghatározó alakja a Belváros városképének,
-      hiszen éppen a Színház előtt a legkeskenyebb a Főutca.
-
-
-      **A poszter 2 méretben elérhető:**
-
-
-      *   A3 (29,7 x 42 cm)
-
-
-      *   A2 (42 x 59,4 cm)
+    content: "A poszter egy félig képzeletbeli városképet mutat be a Széchenyi utca\_és az Erzsébet tér néhány jellegzetes épületével. Bónusz miskolciságként helyet kapott egy kis szelet az Avasi pincesorból, egy régi bécsi villamos, illetve a Szinva patak is az Erzsébet híddal.\n\n**A poszter 2 méretben elérhető:**\n\n*   A3 (29,7 x 42 cm)\n\n*   A2 (42 x 59,4 cm)\n"
   - image_alt: >-
       Így nézne ki egy nappaliban a Miskolc belváros illusztráció bekeretezett
       képként.
