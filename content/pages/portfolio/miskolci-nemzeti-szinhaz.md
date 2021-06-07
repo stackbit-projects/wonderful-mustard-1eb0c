@@ -5,7 +5,7 @@ date: '2021-02-06'
 thumb_image_alt: Miskolc belváros egyedi falikép illusztráció egy 3D renderen
 sections:
   - type: image_section
-    image: images/belvaros-3d-render-kozeli másolat (1).png
+    image: images/miskolc-nemzeti-szinhaz-varoskep-illusztracio.png
     image_alt: Miskolc Belváros egyedi illusztráció 3D renderen
     caption: 'A Miskolc belváros illusztráció 3D renderen. Használt szoftver: Blender'
     width: wide
