@@ -22,7 +22,7 @@ sections:
     type: image_section
     image: images/miskolc-kep-ajandek-varoshaza.jpeg
 seo:
-  title: Erzsébet-fürdő – egyedi falikép
+  title: Avasi templom – egyedi falikép
   description: This is the sample project description
   extra:
     - name: 'og:type'
