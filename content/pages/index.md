@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: Az igényes vizuális megjelenés a legrövidebb út az azonnali bizalomhoz.
     content: >
-      Megnyerő grafikai anyagokkal bizalmat ébreszthetsz a leendő vevőidben,
-      feliratkozóidban vagy partnereidben.
+      Digitális és nyomtatott grafikai anyagok megvalósításában az elejétől a
+      végéig a partnereid vagyunk.
     actions:
       - label: Tervezzünk valami szépet
         url: /contact/
