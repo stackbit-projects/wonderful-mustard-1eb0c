@@ -57,5 +57,5 @@ seo:
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/miskolc-ajandek-kep-belvaros másolat.png
+thumb_image: images/miskolc-szuvenir-ajandek-nemzeti-szinhaz-varoskep-illusztracio.png
 ---
