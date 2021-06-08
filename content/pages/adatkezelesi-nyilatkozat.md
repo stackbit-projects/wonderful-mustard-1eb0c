@@ -11,7 +11,7 @@ layout: page
 ---
 ## 1. Fogalom meghatározások
 
-### 1.1. Személyes adat
+#### 1.1. Személyes adat
 
 Azonosított vagy azonosítható természetes személyre („érintett”) vonatkozó bármely információ; azonosítható az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, szám, helymeghatározó adat, online azonosító vagy a természetes személy testi, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható.
 
@@ -49,9 +49,9 @@ Cím: 3711 Szirmabesenyő, Jókai utca 11.
 
 ## 3. A kezelt személyes adatok köre, és az adatkezelés jogalapjai
 
-### 3.1. Kapcsolat űrlapon megadott személyes adatok
+#### 3.1. Kapcsolat űrlapon megadott személyes adatok
 
-#### 3.1.1. Adatkezelés célja és jogalapja
+###### 3.1.1. Adatkezelés célja és jogalapja
 
 Az adatkezelés célja a Felhasználóval való kapcsolattartás email üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Kapcsolat űrlap kitöltésében nyilvánul meg. A Kapcsolat űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
