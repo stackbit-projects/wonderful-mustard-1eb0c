@@ -89,7 +89,7 @@ A Kapcsolat űrlapon megadott személyes adatokat harmadik országba nem tovább
 
 # 4. Sütik (cookie-k) használata​​​​​​​
 
-Az oldal nem használ sütiket.
+Az weboldal nem használ sütiket.
 
 # 5. 16 évnél fiatalabb személyek adatainak kezelése
 
