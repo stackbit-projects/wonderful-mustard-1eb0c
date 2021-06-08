@@ -39,9 +39,6 @@ seo:
     - name: 'og:title'
       value: Színház – egyedi falikép illusztráció
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/miskolc-ajandek-szuvenir-nemzeti-szinhaz-kep.jpeg
       keyName: property
