@@ -79,11 +79,11 @@ Cím: 3711 Szirmabesenyő, Jókai utca 11.
 
 Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat űrlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
 
-Automatizált döntéshozatal ténye
+### 3.1.7. Automatizált döntéshozatal ténye
 
 A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhasználóval való kapcsolattartásra használjuk.
 
-Harmadik országba történő adattovábbítás ténye
+### 3.1.8. Harmadik országba történő adattovábbítás ténye
 
 A Kapcsolat űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
 
