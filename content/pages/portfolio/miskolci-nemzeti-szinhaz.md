@@ -37,7 +37,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Subtle
+      value: Színház – egyedi falikép illusztráció
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
