@@ -20,7 +20,9 @@ Az adatkezelő a Pennarello Kft.
 Email cím: <info@pennarello.hu>
 
 Cím: 3711 Szirmabesenyő, Jókai utca 11.
-A kezelt személyes adatok köre, és az adatkezelés jogalapjai
+
+
+3.1. A kezelt személyes adatok köre, és az adatkezelés jogalapjai
 
 Kapcsolat űrlapon megadott személyes adatok
 
@@ -50,11 +52,11 @@ Cím: 3711 Szirmabesenyő, Jókai utca 11.
 
 3.1.6. Az adatszolgáltatás elmaradásának következménye
 
-Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat ürlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
+Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat űrlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
 
 Automatizált döntéshozatal ténye
 
-A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
+A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhasználóval való kapcsolattartásra használjuk.
 
 Harmadik országba történő adattovábbítás ténye
 
@@ -101,9 +103,9 @@ Jogorvoslati lehetőségek
 
 A Felhasználó adatkezeléssel kapcsolatos kérdéseivel az Adatkezelő 2. pontban sorolt értesítési címein tájékozódhat.
 
-A Felhasználó jogosult a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulni, amennyiben az Adatkezelő nem a jelen dokumentumban leírtaknak megfelelően kezelte személyes adatait, illetve ha nem sikerül fentebb sorolt jogait érvényesíteni az Adatkezelővel szemben. 
+A Felhasználó jogosult a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulni, amennyiben az Adatkezelő nem a jelen dokumentumban leírtaknak megfelelően kezelte személyes adatait, illetve ha nem sikerül fentebb sorolt jogait érvényesíteni az Adatkezelővel szemben.
 
-A hatóság elérhetőségei: 
+A hatóság elérhetőségei:
 
 Név: Nemzeti Adatvédelmi és Információszabadság Hatóság
 
