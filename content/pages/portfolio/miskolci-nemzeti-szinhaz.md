@@ -55,6 +55,7 @@ seo:
     - name: 'twitter:image'
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
+  description: A poszter a miskolci Főutca egyik legjellegzetesebb épületét illusztrálja.
 layout: project
 thumb_image: images/miskolc-szuvenir-ajandek-nemzeti-szinhaz-varoskep-illusztracio.png
 ---
