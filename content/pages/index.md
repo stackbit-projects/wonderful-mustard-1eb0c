@@ -26,6 +26,29 @@ sections:
     projects_number: 6
     view_all_label: Mind megtekintése
     view_all_url: portfolio
+  - type: grid_section
+    section_id: services
+    title: Szolgáltatásaink
+    subtitle: 'Minden, ami 2D grafikai tervezés és nem mozog (szóval nem videó).'
+    col_number: three
+    grid_items:
+      - title: Grafikai tervezés
+        image: images/service-1.svg
+        content: |
+          *   Logó tervezés
+          *   Arculat tervezés
+          *   Branding
+          *   Táblák, poszterek, molinók grafikai tervezése
+      - title: Nyomtatás
+        image: images/service-2.svg
+        content: |
+          *   Nagy formátumú nyomtatás
+          *   Molinó nyomtatás
+      - title: 'Illusztrációk, vászonképek'
+        image: images/service-3.svg
+        content: |
+          *   Egyedi Miskolc faliképek
+          *   Vászonképek 
   - section_id: lorem-ipsum
     title: Logó terveink
     col_number: three
@@ -92,29 +115,6 @@ sections:
             type: action
         type: grid_item
         image: images/a4-papirbolt-logoterv-weboldal.png
-  - type: grid_section
-    section_id: services
-    title: Szolgáltatásaink
-    subtitle: 'Minden, ami 2D grafikai tervezés és nem mozog (szóval nem videó).'
-    col_number: three
-    grid_items:
-      - title: Grafikai tervezés
-        image: images/service-1.svg
-        content: |
-          *   Logó tervezés
-          *   Arculat tervezés
-          *   Branding
-          *   Táblák, poszterek, molinók grafikai tervezése
-      - title: Nyomtatás
-        image: images/service-2.svg
-        content: |
-          *   Nagy formátumú nyomtatás
-          *   Molinó nyomtatás
-      - title: 'Illusztrációk, vászonképek'
-        image: images/service-3.svg
-        content: |
-          *   Egyedi Miskolc faliképek
-          *   Vászonképek 
   - type: cta_section
     section_id: cta
     title: Készítsünk neked valami szépet!
