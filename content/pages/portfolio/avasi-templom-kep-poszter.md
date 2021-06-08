@@ -17,7 +17,7 @@ sections:
       dallam.
 
 
-      **Az Városháza illusztráció 2 méretben érhető el:**
+      **A illusztráció 2 méretben érhető el:**
 
 
       *   A3 (29,7 x 42 cm)
