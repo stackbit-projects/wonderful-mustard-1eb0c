@@ -32,7 +32,6 @@ sections:
     image: images/miskolc-ajandek-szuvenir-nemzeti-szinhaz-kep.jpeg
 seo:
   title: Miskolci Nemzeti Színház – egyedi falikép
-  description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
