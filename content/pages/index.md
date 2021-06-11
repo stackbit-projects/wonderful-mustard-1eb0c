@@ -136,6 +136,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/logo-rövid.png
   - type: cta_section
     section_id: cta
     title: Készítsünk neked valami szépet!
