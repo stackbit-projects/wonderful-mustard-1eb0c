@@ -130,7 +130,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: Szkítia Harcművészeti Egyesület
             url: '#'
             style: link
             icon: dribbble
