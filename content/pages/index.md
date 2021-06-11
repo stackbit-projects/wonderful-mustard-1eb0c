@@ -128,7 +128,7 @@ sections:
         image: images/interesting-chili.png
       - image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Háromkő Egyesület
             url: '#'
             style: link
             icon: dribbble
