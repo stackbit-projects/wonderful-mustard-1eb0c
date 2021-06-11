@@ -131,7 +131,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Szkítia Harcművészeti Egyesület
-            url: '#'
+            url: 'https://szkitiaharcmuveszet.hu/'
             style: link
             icon: dribbble
             new_window: false
