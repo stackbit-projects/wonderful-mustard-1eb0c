@@ -126,8 +126,7 @@ sections:
             type: action
         type: grid_item
         image: images/interesting-chili.png
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions:
           - label: lorem-ipsum
             url: '#'
