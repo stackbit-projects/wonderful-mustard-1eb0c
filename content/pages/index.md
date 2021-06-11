@@ -125,7 +125,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-        image: images/Eszköz 2@2x.png
+        image: images/szkitia-harcmuveszeti-egyesulet-logo.png
   - type: cta_section
     section_id: cta
     title: Készítsünk neked valami szépet!
